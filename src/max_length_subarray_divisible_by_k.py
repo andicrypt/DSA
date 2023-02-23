@@ -1,3 +1,4 @@
+# tag: [prefix sum]
 # problem: find longest subarray whose sum is divisible by k
 
 # input: 
